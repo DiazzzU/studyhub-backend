@@ -65,9 +65,9 @@ docker-compose up
 
 Deployed version of application is available:
 ```bash
-http://api-dev.studyhub.kz:8000
-http://api-dev.studyhub.kz:8000/api/health_check/
-http://api-dev.studyhub.kz:8000/api/schema/swagger-ui/#/
+https://api-dev.studyhub.kz
+https://api-dev.studyhub.kz/api/health_check/
+https://api-dev.studyhub.kz/api/schema/swagger-ui/#/
 ```
 
 ## Tests
